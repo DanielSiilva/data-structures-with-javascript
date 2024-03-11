@@ -1,0 +1,14 @@
+//Uma pilha é uma coleção ordenada de itens, que segue o principio LIFO =>  o ultimo a entrar e o primeiro a sair
+
+
+// Push(elements(item)) => esse metodo adciona um novo elemento/varios no topo da pilha;
+
+//Pop() => esse metodo remove o elemento que esta no topo da pilha. Tambem devolve o elemento removido
+
+//Peek() => esse metodo devolve o elemento que esta no topo da pilha. A pilha não sobre modificaçoes, o elemento nao e removido, apenas traz o elemento como informacao
+
+//isEmpty() => esse metodo devolve true se a pilha nao tiver nenhum elemento e false se o tamanho da pilha for maior que 0
+
+//Clear() => esse metodo remove todos os elementos da pilha ;
+
+//size() => esse metodo devolve o numero de elementos contidos na pilha. Semehante ao metodo length de um array 
