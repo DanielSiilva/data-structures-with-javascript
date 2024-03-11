@@ -1,6 +1,6 @@
 //Pilha baseada em array
 
-class Stack {
+export class Stack {
   constructor() {
     this.items = [];
   }
