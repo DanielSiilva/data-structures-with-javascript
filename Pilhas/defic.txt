@@ -12,3 +12,6 @@
 //Clear() => esse metodo remove todos os elementos da pilha ;
 
 //size() => esse metodo devolve o numero de elementos contidos na pilha. Semehante ao metodo length de um array 
+
+
+https://chat.openai.com/share/b6887a2a-9856-41d8-8032-535d12631e74
