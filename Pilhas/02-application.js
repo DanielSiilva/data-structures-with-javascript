@@ -68,4 +68,4 @@ function avaliarExpressaoPosFixa(expressao) {
 
 let expressao = "3 4 + 2 * 7 /";
 let resultado = avaliarExpressaoPosFixa(expressao);
-console.log(`Resultado da expressão '${expressao}': ${resultado}`);
+console.log(`Resultado da expressão '${expressao}': ${resultado} `);
