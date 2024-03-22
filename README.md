@@ -1,5 +1,3 @@
-# data-structures-with-javascript
-
 ## Estruturas de Dados Incluídas
 
 Este projeto inclui implementações e exemplos para as seguintes estruturas de dados:
